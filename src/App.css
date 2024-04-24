@@ -1,0 +1,27 @@
+
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.selectElement{
+  width: 300px;
+  height: 40px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.topContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.bottomdiv{
+  margin-top: 50px;
+  margin-left: 30px;
+  width: 50%;
+}
+.heading{
+  font-size: 18px;
+}
